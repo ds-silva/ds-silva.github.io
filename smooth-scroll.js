@@ -1,9 +1,9 @@
 /*!
  * smooth-scroll v16.1.2
  * Animate scrolling to anchor links
- * (c) 2020 David Barbosa da Silva
+ * (c) 2020 Mathias Bynens
  * MIT License
- * http://github.com/dssolutions/smooth-scroll
+ * https://github.com/mathiasbynens/CSS.escape
  */
 
 (function (root, factory) {
